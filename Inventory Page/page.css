@@ -119,12 +119,14 @@ body {
 
 /* table view layout start */
 
+
 .table-view>table {
     width: 97%;
     text-align: center;
     margin: 50px auto;
     border-collapse: collapse;
     border-radius: 10px;
+    
 }
 
 thead {
